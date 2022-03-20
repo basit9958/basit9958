@@ -2,7 +2,7 @@
 <h3 align="center">20 yrs old, currently a student, very keen to explore more techs.</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
 
-- 🌱 I’m currently learning **Kubernetes, Flutter**
+- 🌱 I’m currently learning **Kubernetes, Rest API**
 
 - 💬 Ask me about **Golang, javascript**
 
