@@ -1,19 +1,31 @@
-<h1 align="center">Hi 👋, I'm Basit Hasan</h1>
-<h3 align="center">20 yrs old, currently a student, very keen to explore more techs.</h3>
-<img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
+<!-- ![Banner](https://user-images.githubusercontent.com/87603425/141933741-7c8d48f4-3099-4f2e-bc52-10b49f3f42a3.png) -->
+<div align="center">
+  
+  [![Twitter](https://img.shields.io/static/v1?label=%20&message=Basit&color=blue&style=social&logo=twitter)](https://twitter.com/basitwt)
+  ![Gmail](https://img.shields.io/badge/-hasanbasit13@gmail.com-c14438?style=social&logo=Gmail&link=mailto:hasanbasit13@gmail.com)
+  
+  🙋‍♂️ I am 20 yrs old, currently a student, very keen to explore more techs.<br>
+  🌱 Student ***GO***  Developer.<br>
+  🔭 I’m currently learning about **Kubernetes architecture**.<br>
+  👬‍ I’m looking to **collaborate** on Projects Based on **Go**.<br>
+<!--   🤔 I’m looking for help with ...<br> -->
+<!--   💬 Ask me about ...<br>
+  📫 How to reach me: ...<br>
+  😄 Pronouns: ...<br>
+  ⚡ Fun fact: ...<br> -->
+---
+### Technologies ⚡
+  
+  | Languages                  | [![img](https://img.shields.io/badge/-Go-FFFFFF?style=social&logo=go)](https://go.dev/)                                         [![img](https://img.shields.io/badge/-Java-FFFFFF?style=social&logo=java)](https://www.java.com/en/)                                                             [![img](https://img.shields.io/badge/-Python-FFFFFF?style=social&logo=Python)](https://www.python.org/)                                                                                                                [![img](https://img.shields.io/badge/-JavaScript-FFFFFF?style=social&logo=javascript)](https://www.javascript.com/)                                            [![img](https://img.shields.io/badge/-TypeScript-FFFFFF?style=social&logo=typescript)](https://www.typescriptlang.org/)   [![img](https://img.shields.io/badge/-MYSQL-FFFFFF?style=social&logo=mysql&color=blue)](https://www.mysql.com/) |
+| -------------------------- | ------------------------------------------------------------ |
+| **Libraries & Frameworks** | [![img](https://img.shields.io/badge/-React-FFFFFF?style=social&logo=React&color=blueviolet)](https://reactjs.org/)               [![img](https://img.shields.io/badge/-Bootstrap-FFFFFF?style=social&logo=bootstrap)](https://getbootstrap.com/) [![img](https://img.shields.io/badge/-TailWindCSS-FFFFFF?style=social&logo=tailwindcss)](https://tailwindcss.com/) [![img](https://img.shields.io/badge/-GraphQL-FFFFFF?style=social&logo=graphql)](https://tailwindcss.com/)                                                 [![img](https://img.shields.io/badge/-Nodejs-FFFFFF?style=social&logo=Node.js&color=brightgreen)](https://nodejs.dev/)                                                                             [![img](https://img.shields.io/badge/-Express-FFFFFF?style=social&logo=Express&color=black)](https://expressjs.com/) |
+| **Tools**                  | [![img](https://img.shields.io/badge/-Github_Pages-FFFFFF?style=social&logo=github&color=blue)](https://pages.github.com/)     [![img](https://img.shields.io/badge/Docker%20-%23430098.svg?logo=docker&style=social)](https://www.docker.com/) [![img](https://img.shields.io/badge/Kubernetes%20-%23430098.svg?logo=kubernetes&style=social)](https://kubernetes.io/)   [![img](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&style=social)](https://www.heroku.com/)                                           [![img](https://img.shields.io/badge/-Git-FFFFFF?style=social&logo=git)](https://git-scm.com/)                                                                   [![img](https://img.shields.io/badge/-MongoDB-FFFFFF?style=social&logo=mongodb)](https://www.mongodb.com/) |
+  
+  ---
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basit9958&show_icons=true&locale=en" alt="basit9958" /></p>
 
-- 🌱 I’m currently learning **Kubernetes Architecture, Rest API**
 
-- 💬 Ask me about **Golang, javascript**
-
-- 📫 How to reach me **hasanbasit13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/basitwt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="basitwt" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basit9958&show_icons=true&locale=en" alt="basit9958" /></p>
+  
+<!--   [![Shivansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivansh-yadav13&bg_color=000000&color=ffffff&line=42c6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+ -->
