@@ -6,7 +6,7 @@
   
   🙋‍♂️ I am 20 yrs old, currently a student, very keen to explore more techs.<br>
   🌱 Student ***GO***  Developer.<br>
-  🔭 I’m currently learning about **Kubernetes architecture**.<br>
+  🔭 I’m currently learning about **Kubernetes networking**.<br>
   👬‍ I’m looking to **collaborate** on Projects Based on **Go**.<br>
 <!--   🤔 I’m looking for help with ...<br> -->
 <!--   💬 Ask me about ...<br>
