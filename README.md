@@ -22,10 +22,5 @@
 | **Tools**                  | [![img](https://img.shields.io/badge/-Github_Pages-FFFFFF?style=social&logo=github&color=blue)](https://pages.github.com/)     [![img](https://img.shields.io/badge/Docker%20-%23430098.svg?logo=docker&style=social)](https://www.docker.com/) [![img](https://img.shields.io/badge/Kubernetes%20-%23430098.svg?logo=kubernetes&style=social)](https://kubernetes.io/)   [![img](https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&style=social)](https://www.heroku.com/)                                           [![img](https://img.shields.io/badge/-Git-FFFFFF?style=social&logo=git)](https://git-scm.com/)                                                                   [![img](https://img.shields.io/badge/-MongoDB-FFFFFF?style=social&logo=mongodb)](https://www.mongodb.com/) |
   
   ---
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basit9958&show_icons=true&locale=en" alt="basit9958" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=basit9958&show_icons=true&theme=radical" alt="basit9958" /></p>
 
-
-  
-<!--   [![Shivansh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Shivansh-yadav13&bg_color=000000&color=ffffff&line=42c6ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
- -->
